@@ -59,7 +59,17 @@
     "screenshot": "screenshot.png",
     "google-analytics": "",
     "header_custom": "<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-170165655-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-170165655-1');\n</script>\n\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-N3XBQW6');</script>\n\n\n",
-    "htmltag": "<html>"
+    "htmltag": "<html>",
+    "PWA": {
+      "enabled": true,
+      "name": "Fresno Solar Maintenance",
+      "icon": "@PROJECT_PATH@/assets/images/smf-icon-512x512.png",
+      "themeColor": "#324a8a"
+    },
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "lazyType": "nothing",
+    "pwa-switcher": true
   },
   "pages": {
     "index.html": {
