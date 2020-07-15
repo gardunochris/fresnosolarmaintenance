@@ -63,7 +63,7 @@
     "PWA": {
       "enabled": true,
       "name": "Fresno Solar Maintenance",
-      "icon": "@PROJECT_PATH@/assets/images/smf-icon-512x512.png",
+      "icon": "@PROJECT_PATH@/assets/images/smf-icon-512x512_1.png",
       "themeColor": "#324a8a"
     },
     "cssOptimize": false,
